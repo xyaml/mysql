@@ -1,5 +1,11 @@
-# 技术文档
+# 学生信息管理系统
 
+## 技术文档
+* [ubuntu安装](./ubuntu.md)
+* [vim的配置](./vim.md)
+* [git的使用](./git.md)
+* [mysql安装](./mysql.md)
+* [atom安装](./atom.md)
 ## 课程设计
 * [学生管理系统](./stu.md)
 
