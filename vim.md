@@ -1,7 +1,6 @@
 ## vim配置
 
 ### vim的安装
-  
   * 在终端命令行下执行sodo apt-get install vim
 
 ### vim的基本使用
